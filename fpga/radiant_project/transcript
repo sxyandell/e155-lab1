@@ -13,3 +13,24 @@
 # // of the Customer's facilities without the express written permission of SISW,
 # // and may not be used in any way not expressly authorized by SISW.
 # //
+# Loading project lab1_sy
+# Compile of lab1_sy_testbench.sv was successful.
+# Compile of seven_display_testbench.sv was successful.
+# Compile of lab1_sy.sv was successful.
+# Compile of seven_display.sv was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.lab1_sy
+# vsim -gui work.lab1_sy 
+# Start time: 21:48:04 on Sep 07,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: C:/Users/syandell/Downloads/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001-20250904T222820Z-1-001/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001/lab_1-20250904T043921Z-1-001/lab_1/lab1_UP5K/source/impl_1/lab1_sy.sv(21): Module 'HSOSC' is not defined.
+#  For instance 'hf_osc' at path 'lab1_sy'
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=0.
+# Error loading design
+# End time: 21:48:04 on Sep 07,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 5
+# Compile of lab1_sy_testbench.sv was successful.
+# Compile of lab1_sy.sv was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled

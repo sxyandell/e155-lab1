@@ -1,0 +1,15 @@
+C:/Users/syandell/Downloads/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001-20250904T222820Z-1-001/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001/lab_1-20250904T043921Z-1-001/lab_1/lab1_UP5K/source/impl_1/lab1_sy_testbench.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/syandell/Downloads/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001-20250904T222820Z-1-001/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001/lab_1-20250904T043921Z-1-001/lab_1/lab1_UP5K/source/impl_1/lab1_sy_testbench.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module seven_display_testbench
+
+Top level modules:
+	seven_display_testbench
+
+} {} {}} C:/Users/syandell/Downloads/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001-20250904T222820Z-1-001/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001/lab_1-20250904T043921Z-1-001/lab_1/lab1_UP5K/source/impl_1/lab1_sy.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/syandell/Downloads/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001-20250904T222820Z-1-001/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001/lab_1-20250904T043921Z-1-001/lab_1/lab1_UP5K/source/impl_1/lab1_sy.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module lab1_sy
+
+Top level modules:
+	lab1_sy
+
+} {} {}}

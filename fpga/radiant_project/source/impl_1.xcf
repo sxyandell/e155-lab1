@@ -18,8 +18,8 @@
 				<BScanVal>0</BScanVal>
 			</Bypass>
 			<File>../../impl_1/lab1_UP5K_impl_1.bin</File>
-			<FileTime>09/04/25 00:40:25</FileTime>
-			<JedecChecksum>0x4270</JedecChecksum>
+			<FileTime>09/07/25 20:19:14</FileTime>
+			<JedecChecksum>0xCCE1</JedecChecksum>
 			<MemoryType>External SPI Flash Memory (SPI FLASH)</MemoryType>
 			<Operation>Erase,Program,Verify</Operation>
 			<Option>
@@ -76,11 +76,11 @@
 				<Device>
 					<Pos>1</Pos>
 					<Name></Name>
-					<File>C:/Users/syandell/Downloads/lab_1-20250904T043921Z-1-001/lab_1/lab1_UP5K/impl_1/lab1_UP5K_impl_1.bin</File>
+					<File>C:/Users/syandell/Downloads/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001-20250904T222820Z-1-001/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001/lab_1-20250904T043921Z-1-001/lab_1/lab1_UP5K/impl_1/lab1_UP5K_impl_1.bin</File>
 					<LocalChainList>
 						<LocalDevice index="-99"
 							name="Unknown"
-							file="C:/Users/syandell/Downloads/lab_1-20250904T043921Z-1-001/lab_1/lab1_UP5K/impl_1/lab1_UP5K_impl_1.bin"/>
+							file="C:/Users/syandell/Downloads/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001-20250904T222820Z-1-001/lab_1-20250904T043921Z-1-001-20250904T101233Z-1-001/lab_1-20250904T043921Z-1-001/lab_1/lab1_UP5K/impl_1/lab1_UP5K_impl_1.bin"/>
 					</LocalChainList>
 					<Option>
 						<SVFVendor>JTAG STANDARD</SVFVendor>
